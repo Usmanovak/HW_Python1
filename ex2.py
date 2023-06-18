@@ -18,4 +18,4 @@ if s > 0 and s % 2 == 0:
 else: 
     print ('error')
 
-print(Petya, (2 * 2 * Petya), Petya)
+print(int(Petya), int((2 * 2 * Petya)), int(Petya))
